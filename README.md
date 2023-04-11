@@ -22,3 +22,4 @@ sendo elas 360px; 720px e 1440px.
 | :rocket: URL         | [https://culturama-tawny.vercel.app/](https://culturama-tawny.vercel.app/) |
 
 ![](https://raw.githubusercontent.com/DevMatheusBarba/Culturama/main/culturama-img.png#vitrinedev)
+ 
